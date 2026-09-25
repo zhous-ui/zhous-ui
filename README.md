@@ -1,16 +1,26 @@
-## Hi there 👋
+### About Me  
+A first-year student majoring in Digital Media Technology, passionate about gaming and creating interactive digital content.
 
-<!--
-**zhous-ui/zhous-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests  
+Game client development, 3D modeling, human-computer interaction, computer graphics
 
-Here are some ideas to get you started:
+### Current Skills  
+Still building foundational expertise; actively learning and improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning  
+C++, linear algebra, computer fundamentals, Blender materials and rendering
+
+### What I Want to Build  
+Hope to create small indie games in the future, experiment with game scene design, and develop fun interactive demos.
+
+### Preferred Role  
+Programmer
+
+### Strengths  
+Strong logical thinking, proactive in researching documentation to learn new skills, patient and meticulous in work
+
+### Contact  
+Email: zhousmail@sohu.com
+
+### Other  
+Eager to join projects and continuously gain hands-on experience.
